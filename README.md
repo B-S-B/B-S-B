@@ -12,11 +12,11 @@
 
 <h3 align="left">Let's Connect:</h3>
 <p align="left">
-<a href="https://twitter.com/__b_s_b__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__b_s_b__" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/basantsinghbhaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="basantsinghbhaskar" height="30" width="40" /></a>
 <a href="https://kaggle.com/basantsinghbhaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="basantsinghbhaskar" height="30" width="40" /></a>
-<a href="https://fb.com/basantsbhaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="basantsbhaskar" height="30" width="40" /></a>
 <a href="https://instagram.com/basant_singh_bhaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="basant_singh_bhaskar" height="30" width="40" /></a>
+<a href="https://fb.com/basantsbhaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="basantsbhaskar" height="30" width="40" /></a>
+<a href="https://twitter.com/__b_s_b__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__b_s_b__" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/basantsbhaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="basantsbhaskar" height="30" width="40" /></a>
 </p><br>
 
