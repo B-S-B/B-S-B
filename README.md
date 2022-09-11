@@ -10,7 +10,7 @@
 
 <img src="https://miro.medium.com/max/2800/1*BU7f02LeQeELztqxa8eCmw.gif" align="right" alt="Coder GIF" width="350" height="250">
 
-<h3 align="left">Let's Connect:</h3>
+<h3 align="left">Let's Connect:<img src="https://github.com/B-S-B/B-S-B/blob/062ad39f11803b2d5a46b560d8e69f6544a134eb/img/handshake.gif" height="32px"></h3>
 <p align="left">
 <a href="https://linkedin.com/in/basantsinghbhaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="basantsinghbhaskar" height="30" width="40" /></a>
 <a href="https://kaggle.com/basantsinghbhaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="basantsinghbhaskar" height="30" width="40" /></a>
