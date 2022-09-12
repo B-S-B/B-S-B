@@ -8,12 +8,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?size=26&pause=1000&center=true&vCenter=true&width=700&lines=Data+Scientist+by+Profession+%F0%9F%98%8E;Mechatronics+Engineer+by+Education+%F0%9F%A4%96;Experienced+Automotive+Product+Lead+%F0%9F%8F%8E%EF%B8%8F;apt+update+%26+apt+upgrade+-y+in+Loop+%F0%9F%94%81" alt="Typing SVG" /></a>
 </p><br>
 
-<img src="https://miro.medium.com/max/2800/1*BU7f02LeQeELztqxa8eCmw.gif" align="right" alt="Coder GIF" width="250" height="200">
-
-<h3 align="left">Let's Connect:<img src="img\handshake.gif" height="32px"></h3>
+<h3 align="center">Let's Connect:<img src="img\handshake.gif" height="32px"></h3>
 
 
-<h5 align="left">
+<h5 align="center">
   <code><a href="https://www.linkedin.com/in/basantsinghbhaskar/" title="LinkedIn Profile"><img height="22" width="22" src="img\linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.kaggle.com/basantsinghbhaskar/" title="kaggle Profile"><img height="22" width="22" src="img\kaggle.svg"> Kaggle</a></code>
   <code><a href="https://www.instagram.com/basant_singh_bhaskar/" title="Instagram Profile"><img height="22" width="22" src="img\instagram.svg"> Instagram</a></code>
@@ -21,8 +19,8 @@
 
 <br><br><br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
 
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
